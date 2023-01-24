@@ -5,5 +5,5 @@ Explantion:
 
 REMINDER
 - [ ] Stay Focused
-- [ ] Sort Out the Problem
+- [ ] Stick With It / Sort Out the Problem
 - [ ] Ask for Help
