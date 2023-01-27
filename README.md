@@ -14,5 +14,4 @@ Explantion:  The growth mindset is a structured tool for combatting learning obs
 
 Visit My Github Page @ [Darshon Crudup](https://github.com/darshon-crudup)
 
-[Link to Read:01 Markdown Assignment](https://github.com/darshon-crudup/readme.md)
-
+<a href="https://darshon-crudup.github.io/reading-notes/markdown">Link to Read:01 Assignment</a>
