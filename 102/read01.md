@@ -21,7 +21,7 @@ By using a personal URL you can create personal websites for yourself or the com
 
 Jeckly is an open source tool that helps you generate text files which helps you create websites.
 
-GitHub can automatically can build and deploy your website.
+GitHub can automatically build and deploy your website.
 
 Using the automatic page generator you can develop your site with pre-built themes.
 
