@@ -26,3 +26,8 @@ GitHub can automatically can build and deploy your website.
 Using the automatic page generator you can develop your site with pre-built themes.
 
 ## Things I want to know more about
+- GitHub sharing projects/collaboraing
+- Managing multiple repositories
+- Dragging and dropping
+- GitHub commands and help dialogs
+- GitHub workflow best practices
