@@ -18,4 +18,5 @@ Visit My Github Page @ [Darshon Crudup](https://github.com/darshon-crudup)
 
 ### Table of Contents
 
-[learning markdown](./102/read01.md)
+* [learning markdown](./102/read01.md)
+* [thecoderscomputer](./102/read02.md)
