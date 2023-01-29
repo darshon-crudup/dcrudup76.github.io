@@ -2,12 +2,12 @@
 
 ## Code 102 Reading Notes
 
-* [learning markdown](/read01.md)
-* [the coders computer](/read02.md)
-* [revisons and the cloud](/read03.md)
+* [learning markdown](/read01)
+* [the coders computer](/read02)
+* [revisons and the cloud](/read03)
 * [course4](/102/file1)
-* [design web pages with CSS](/read05.md)
-* [dynamic web pages with javascript](/read06.md)
+* [design web pages with CSS](/read05)
+* [dynamic web pages with javascript](/read06)
 * [course7](/102/file7)
 * [course8](/102/file8)
 
