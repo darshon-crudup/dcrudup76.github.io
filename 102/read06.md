@@ -29,4 +29,4 @@ Of course in order for this to make more sense you'll have to understand what tr
 
 Watch How Computers Work from Code.org:
 
-![youtube.img](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
