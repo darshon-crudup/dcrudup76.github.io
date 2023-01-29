@@ -11,3 +11,4 @@ Chosing the right text editor is vital to begin your journey into coding.  Once 
 
 A command line or a termainal, is a text based interface into the system. As you enter commands on your keyboard the system will output text.  Here is an example of how input and output will display:
 
+![terminal](/102/terminal.jpg)
