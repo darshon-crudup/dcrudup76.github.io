@@ -30,3 +30,8 @@ Of course in order for this to make more sense you'll have to understand what tr
 Watch How Computers Work from Code.org:
 
 [![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
+## Things I want to know more about
+- placement
+- identifying errors
+- opening and closing tags
