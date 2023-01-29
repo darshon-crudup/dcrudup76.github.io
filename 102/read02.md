@@ -20,3 +20,9 @@ Here are a few commands you should become familiar using:
 + ls - short list (Lists the content of the directory
 + pwd - print working directory (Displays where you are located)
 + cd - change directory (Changes your location to another directory)
+
+## Things I want to know more about
+* benefits of replit
+* recommendeded text editors which test CSS, Java, and HTML
+* configuring your laptop for effiency and utilizing external storage
+* examples of popular sites created with Markdown, Replit, or GitHub
