@@ -26,3 +26,4 @@ Here are a few commands you should become familiar using:
 * recommendeded text editors which test CSS, Java, and HTML
 * configuring your laptop for effiency and utilizing external storage
 * examples of popular sites created with Markdown, Replit, or GitHub
+* using the tilde, dot, and dotdot
