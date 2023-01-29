@@ -17,7 +17,7 @@ I'm learning that working in terminals and writing code will become a part of my
 
 Here is an example of how input and output will display in a terminal:
 
-![terminal](/102/terminal.jpg)
+![terminal] (/102/terminal.jpg)
 
 # Using Commands
 
