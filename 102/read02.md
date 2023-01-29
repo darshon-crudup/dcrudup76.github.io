@@ -12,3 +12,11 @@ Chosing the right text editor is vital to begin your journey into coding.  Once 
 A command line or a termainal, is a text based interface into the system. As you enter commands on your keyboard the system will output text.  Here is an example of how input and output will display:
 
 ![terminal](/102/terminal.jpg)
+
+# Using Commands
+
+Here are a few commands you should become familiar using:
+
++ ls - short list (Lists the content of the directory
++ pwd - print working directory (Displays where you are located)
++ cd - change directory (Changes your location to another directory)
