@@ -6,3 +6,8 @@ Chosing the right text editor is vital to begin your journey into coding.  Once 
 - syntax highlighting
 - a nice variety of themes (to reduce eye strain and fatigue)
 - the ability to choose from a healthy selection of extensions available when you need them.
+
+# Terminal Introduction
+
+A command line or a termainal, is a text based interface into the system. As you enter commands on your keyboard the system will output text.  Here is an example of how input and output will display:
+
