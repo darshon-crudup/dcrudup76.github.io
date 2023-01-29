@@ -10,4 +10,4 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 
 **This website indcludes links to the Markdown files I created for reading notes**
 
-[Table of Contents](/102/tableofcontents.md)
+[Table of Contents](tableofcontents)
