@@ -2,8 +2,6 @@
 
 ## Loops and iteration
 
-## Loops and iteration
-
 Loops offer a quick and easy way to do something repeatedly. This chapter of the JavaScript Guide introduces the different iteration statements available to JavaScript.
 
 You can think of a loop as a computerized version of the game where you tell someone to take X steps in one direction, then Y steps in another. For example, the idea "Go five steps to the east" could be expressed this way as a loop:
@@ -54,20 +52,21 @@ The expression 3 + 4 is an example of the second type. This expression uses the 
 
 As the examples above also illustrate, all complex expressions are joined by operators, such as = and +. In this section, we will introduce the following operators:
 
-- Assignment operators
-- Comparison operators
-- Arithmetic operators
-- Bitwise operators
-- Logical operators
-- BigInt operators
-- String operators
-- Conditional (ternary) operator
-- Comma operator
-- Unary operators
-- Relational operators
++ Assignment operators
++ Comparison operators
++ Arithmetic operators
++ Bitwise operators
++ Logical operators
++ BigInt operators
++ String operators
++ Conditional (ternary) operator
++ Comma operator
++ Unary operators
++ Relational operators
 
 These operators join operands either formed by higher-precedence operators or one of the basic expressions. A complete and detailed list of operators and expressions is also available in the reference.
 
 ## Things I want to know more about
-- Understanding and creating loops and iterations
-- Identifying and using expressions
+
++ Understanding and creating loops and iterations
++ Identifying and using expressions
