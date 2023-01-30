@@ -1,4 +1,4 @@
-# Markdown Notes - Read 01
+# Learning Markdown - Read 01
 
 ## Markdown: Headings
 Heading level 1 <h1>Heading level </h>

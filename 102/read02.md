@@ -1,4 +1,4 @@
-# Markdown Notes - Read 02
+# The Coders Computer - Read 02
 
 Chosing the right text editor is vital to begin your journey into coding.  Once you gain familiarity using a good text editor, your ability to code will increase.  As I gain knowledge on using GitHub, Ubunto, and VS Code I felt that certain features were vital to mention for a good user experience. 
 

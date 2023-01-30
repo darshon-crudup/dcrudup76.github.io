@@ -1,4 +1,4 @@
-# Dynamic web pages with Javascript
+# Dynamic web pages with Javascript - Read 06
 
 # JS Intro Paragraph
 
