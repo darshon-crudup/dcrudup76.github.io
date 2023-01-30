@@ -6,7 +6,7 @@
 * [the coders computer](read02.md)
 * [revisions and the cloud](read03.md)
 * [structure web pages with HTML](read04.md)
-* [design web pages with CSS][read05.md]
+* [design web pages with CSS](read05.md)
 * [dynamic web pages with javascript](read06.md)
 * [programming with javascript](read07.md)
 * [operators and loops](read08.md)
