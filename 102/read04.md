@@ -49,4 +49,6 @@ In CSS, consider styling a list with li elements representing different types of
 ## Semantics in HTML
 In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
 
-<h1>This is a top level heading</h1>
+## Things I want to know more about
+- configuring your system to test Javascript, CSS, and HTML
+- understanding and creating functions
