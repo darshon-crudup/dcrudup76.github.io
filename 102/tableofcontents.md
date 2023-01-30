@@ -2,14 +2,14 @@
 
 ## Code 102 Reading Notes
 
-* [learning markdown](read01)
-* [the coders computer](read02)
-* [revisions and the cloud](read03)
-* [course4]()
-* [design web pages with CSS](read05)
-* [dynamic web pages with javascript](read06)
-* [course7]()
-* [course8]()
+* [learning markdown](read01.md)
+* [the coders computer](read02.md)
+* [revisions and the cloud](read03.md)
+* [structure web pages with HTML](read04.md)
+* [design web pages with CSS](read05.md)
+* [dynamic web pages with javascript](read06.md)
+* [programming with javascript](read07.md)
+* [operators and loops](read08.md)
 
 ## Code 201 Reading Notes
 
