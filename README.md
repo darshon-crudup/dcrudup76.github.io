@@ -1,23 +1,8 @@
-# Reading-notes
+# Reading Notes
 
-My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFellows collective! I'm a Army Veteran as well as a graphic designer and filmmaker who also writes children's books (Baby Casey and the Golden Cookie) (Nufee's Adventure). I decided to enter the tech industry to transition into a new profession which will increase my earning potential. We've just begun our journey but I'm very anxious to learn more in order to hone my skills.  Open to feed back.  Thanks.
+My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFellows collective! I'm a Army Veteran as well as a graphic designer and filmmaker who also writes children's books (Baby Casey and the Golden Cookie) (Nufee's Adventure). I decided to learn software development in order to pursue a new profession which has continuous growth and earning potential.  I'd also like to learn about UX and UI once I become proficient at coding. Looking forward to the journey.  Cheers!
 
-## The Growth Mindset - Course 102d49 :calendar:^2022^
-
-***Explained by Darshon Crudup***
-
-Explantion:  The growth mindset is a structured tool for combatting learning obstacles and overcoming them.  If you develop a growth mindset, it will aid you in maneuvering around challenges.  In order to get smarter and absorb new information we must prepare our minds to adjust and adapt so we can accomplish our learning objectives.
-
- :loudspeaker: REMINDER
-
-- [ ] Stay Focused
-- [ ] Stick With It / Sort Out the Problem
-- [ ] Ask for Help
-
-Visit My Github Page @ [Darshon Crudup](https://github.com/darshon-crudup)
-
-### Table of Contents
-
+## Code 102 - Intro to Software Development
 * [learning markdown](./102/read01.md)
 * [the coders computer](./102/read02.md)
 * [revisions and the cloud](./102/read03.md)
@@ -26,3 +11,22 @@ Visit My Github Page @ [Darshon Crudup](https://github.com/darshon-crudup)
 * [dynamic web pages with javascript](./102/read06.md)
 * [programming with javascript](./102/read07.md)
 * [operators and loops](.102/read08.md)
+
+## Code 201 - Foundations of Software Development
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
+ :loudspeaker: DAILY REMINDER'S:
+
+- [ ] Stay Focused
+- [ ] Stick With It / Sort Out the Problem
+- [ ] Ask for Help
+
+Visit My Github Page @ [Darshon Crudup](https://github.com/darshon-crudup)
+
+### Motivational [Quote](Quote#)
+> ***“Change is the end result of all true learning.”***
+
+**_Leo Buscaglia_**
