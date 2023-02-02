@@ -10,7 +10,7 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 * [design web pages with CSS](./102/read05.md)
 * [dynamic web pages with javascript](./102/read06.md)
 * [programming with javascript](./102/read07.md)
-* [operators and loops](.102/read08.md)
+* [operators and loops](./102/read08.md)
 
 ## Code 201 - Foundations of Software Development
 
