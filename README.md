@@ -18,11 +18,11 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 
 ## Code 401 - Advanced Software Development
 
- :loudspeaker: DAILY REMINDER'S:
+ :loudspeaker: DAILY REMINDER'S
 
-- [ ] Stay Focused
-- [ ] Stick With It / Sort Out the Problem
-- [ ] Ask for Help
+[ ] Stay Focused
+[ ] Stick With It / Sort Out the Problem
+[ ] Ask for Help
 
 Visit My Github Page @ [Darshon Crudup](https://github.com/darshon-crudup)
 
