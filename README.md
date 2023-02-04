@@ -13,6 +13,7 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 * [operators and loops](./102/read08.md)
 
 ## Code 201 - Foundations of Software Development
+* [html](./201/read01.md)
 
 ## Code 301 - Intermediate Software Development
 
