@@ -14,7 +14,7 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 
 ## Code 201 - Foundations of Software Development
 * [html](./201/class-01.md)
-* [HTML Links, JS Functions, and Intro to CSS Layout](.201/class-04.md)
+* [HTML Links, JS Functions, and Intro to CSS Layout](201/class-04.md)
 
 ## Code 301 - Intermediate Software Development
 
