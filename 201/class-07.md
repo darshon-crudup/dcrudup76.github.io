@@ -16,7 +16,7 @@ Tables produce tag soup: As mentioned above, table layouts generally involve mor
 Tables are not automatically responsive: When you use proper layout containers (such as <header>, <section>, <article>, or <div>), their width defaults to 100% of their parent element. Tables on the other hand are sized according to their content by default, so extra measures are needed to get table layout styling to effectively work across a variety of devices.
 
 ## List and describe 3 different semantic HTML elements used in an HTML <table>.
-<table>,<th>, and ,<td>
+table,th, and td
 
 ## Introducing Constructors
 
@@ -26,7 +26,6 @@ Constructors are a special method of a class for creating and initializing an 
 ## How does the term this differ when used in an object literal versus when used in a constructor?
 A function's this keyword behaves a little differently in JavaScript compared to other languages.  Inside a function, the value of this depends on how the function is called. Think about this as a hidden parameter of a function — just like the parameters declared in the function definition, this is a binding that the language creates for you when the function body is evaluated.
 A constructor belongs to a particular class object that is instantiated. The constructor initializes this object and can provide access to its private information. The concept of a constructor can be applied to most object-oriented programming languages. Essentially, a constructor in JavaScript is usually declared at the instance of a class.
-
 
 ## Object Prototypes Using A Constructor
 
