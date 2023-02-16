@@ -16,8 +16,8 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 * [html](./201/class-01.md)
 * [HTML Links, JS Functions, and Intro to CSS Layout](201/class-04.md)
 * [Readings: Problem Domain, Objects, and the DOM](201/class-06.md)
-* [Readings: Object-Oriented Programming, HTML Tables](201/class-07)
-* [Readings: Forms and JS Events](201/class-09)
+* [Readings: Object-Oriented Programming, HTML Tables](201/class-07.md)
+* [Readings: Forms and JS Events](201/class-09.md)
 
 ## Code 301 - Intermediate Software Development
 
