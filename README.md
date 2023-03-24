@@ -26,6 +26,7 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 * [Introduction to React and Components](301/class-01a.md)
 * [Readings: REST](301/class-07.md)
 * [Readings: API's](301/class-08.md)
+* [Readings: In memory storage](301/class-09.md)
 
 ## Code 401 - Advanced Software Development
 
