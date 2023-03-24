@@ -10,6 +10,7 @@ Since the call stack is single, function(s) execution, is done, one at a time, f
 When we say that the call stack, operates by the data structure principle of Last In, First Out, it means that the last function that gets pushed into the stack is the first to be pop out, when the function returns.
 
 Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
+![stack](stack.jpg)
 
 
 
