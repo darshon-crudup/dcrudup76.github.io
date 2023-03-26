@@ -27,6 +27,7 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 * [Readings: REST](301/class-07.md)
 * [Readings: API's](301/class-08.md)
 * [Readings: In memory storage](301/class-09.md)
+* [Readings: Mongo DB and Mongoose](301/class-11.md)
 
 ## Code 401 - Advanced Software Development
 
