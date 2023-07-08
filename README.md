@@ -27,7 +27,11 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 
 ## Code 301 - Intermediate Software Development
 * [React](301/class-01.md)
+
 ## Code 401 - Advanced Software Development
+* [Readings: Class 01]
+* [Readings: Class 02]
+* [Readings: Class 03]
 
  :loudspeaker: DAILY REMINDER'S
 
