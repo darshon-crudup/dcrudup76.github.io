@@ -1,4 +1,4 @@
-# Reading Notes
+## Reading Notes
 
 My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFellows collective! I'm a Army Veteran as well as a graphic designer and filmmaker who also writes children's books (Baby Casey and the Golden Cookie) (Nufee's Adventure). I decided to learn software development in order to pursue a new profession which has continuous growth and earning potential.  I'd also like to learn about UX and UI once I become proficient at coding. Looking forward to the journey.  Cheers!
 
