@@ -27,9 +27,10 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 ## Code 401 - Advanced Software Development
 * [Readings: Prep: The Growth Mindset](401/mindset.md)
 * [Readings: Class 02](401/read-class2.md)
-* [Readings: Class 01](401/class-01.md)
-* [Readings: Class 02](401/class-02.md)
-* [Readings: Class 03](401/class-03.md)
+* [Readings: Class 03](401/read-class3.md)
+* [Readings: Class 04](401/read-class-04.md)
+* [Readings: Class 05](401/class-02.md)
+* [Readings: Class 06](401/class-03.md)
 
  :loudspeaker: DAILY REMINDER'S
 
