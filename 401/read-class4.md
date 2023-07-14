@@ -1,6 +1,5 @@
 ## Read Class-04
 
-
 # Java OO Tutorial (only the Object and Class ones)
 
 Explain the difference between an object and a class.
