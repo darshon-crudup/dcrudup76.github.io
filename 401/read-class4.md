@@ -12,7 +12,6 @@ on and off
 Name two types of behaviours that a student object might have.
 turn on, turn off)
 
-
 # Java Classes (do NOT do the Nested Classes section)
 
 Explain the significance of a constructor for a class.
