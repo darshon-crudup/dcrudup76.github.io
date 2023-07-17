@@ -30,14 +30,12 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 * [Readings: Class 03](401/read-class3.md)
 * [Readings: Class 04](401/read-class4.md)
 * [Readings: Class 05](401/class-02.md)
-* [Readings: Class 06](401/class6.md)
+* [Readings: Class 06](401/read-class6.md)
 
 ## :loudspeaker: DAILY REMINDER'S
 
 [ ] Stay Focused
-
 [ ] Stick With It / Sort Out the Problem
-
 [ ] Ask for Help
 
 Visit My Github Page @ [Darshon Crudup](https://github.com/darshon-crudup)
