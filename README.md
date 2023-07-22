@@ -28,7 +28,7 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 * [Readings: Prep: The Growth Mindset](401/mindset.md)
 * [Readings: Prep: Introduction to SQL](401/sql.md)
 * [Readings: Prep: Data Structures and Algorighms](401/datastructures.md)
-* [Readings: Prep: Prep: Engineering Readings](401/engineering.md)
+* [Readings: Prep: Engineering Readings](401/engineering.md)
 * [Readings: Class 02](401/read-class2.md)
 * [Readings: Class 03](401/read-class3.md)
 * [Readings: Class 04](401/read-class4.md)
