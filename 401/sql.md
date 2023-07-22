@@ -4,6 +4,6 @@ Databases are a series of tables.  Each table has different columns with unique 
 
 
 # Things I want to know more about:
-Using the % and matching zero or more
-Using strings within “ “
-Using !=
+- Using the % and matching zero or more
+- Using strings within “ “
+- Using !=
