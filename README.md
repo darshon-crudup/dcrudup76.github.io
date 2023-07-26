@@ -37,6 +37,7 @@ My name is Darshon Crudup (he/him) and I'm excited to be a part of the CodeFello
 * [Readings: Class 07](401/read-class7.md)
 * [Readings: Class 11](401/read-class11.md)
 * [Readings: Class 12](401/read-class12.md)
+* [Readings: Class 12](401/read-class13.md)
 
 ## :loudspeaker: DAILY REMINDER'S
 
